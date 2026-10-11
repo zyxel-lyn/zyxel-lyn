@@ -7,7 +7,7 @@ GitHub account avatar and native interface are user-controlled and out of scope.
 -->
 
 <p align="center">
-  <img src="assets/hero-monochrome-v2-master.png" alt="ZYXEL-LYN — Wildanun Mukhallid. Original monochrome Arthur Boyle pixel-manga hero with complete frame, typography and sword illustration." width="100%" />
+  <img src="assets/hero-v2-final.png" alt="ZYXEL-LYN — Wildanun Mukhallid. Original monochrome Arthur Boyle pixel-manga hero with complete frame, typography and sword illustration." width="100%" />
 </p>
 
 ### SELECTED WORK
@@ -16,17 +16,17 @@ GitHub account avatar and native interface are user-controlled and out of scope.
   <tr>
     <td width="33.33%" valign="top">
       <a href="https://github.com/zyxel-lyn/TA-Builder" title="TA-Builder — Windows desktop academic writing workspace">
-        <img src="assets/project-ta-builder-master.png" alt="Complete monochrome TA-Builder project artwork. View TA-Builder repository." width="100%" />
+        <img src="assets/ta-builder-v2-final.png" alt="Complete monochrome TA-Builder project artwork. View TA-Builder repository." width="100%" />
       </a>
     </td>
     <td width="33.33%" valign="top">
       <a href="https://github.com/zyxel-lyn/devnotehub" title="DevNoteHub — full-stack notes application">
-        <img src="assets/project-devnotehub-master.png" alt="Complete monochrome DevNoteHub project artwork. View DevNoteHub repository." width="100%" />
+        <img src="assets/devnotehub-v2-final.png" alt="Complete monochrome DevNoteHub project artwork. View DevNoteHub repository." width="100%" />
       </a>
     </td>
     <td width="33.33%" valign="top">
       <a href="https://github.com/zyxel-lyn/web-personal" title="web-personal — personal website">
-        <img src="assets/project-web-personal-master.png" alt="Complete monochrome web-personal project artwork. View web-personal repository." width="100%" />
+        <img src="assets/web-personal-v2-final.png" alt="Complete monochrome web-personal project artwork. View web-personal repository." width="100%" />
       </a>
     </td>
   </tr>
@@ -46,7 +46,7 @@ GitHub account avatar and native interface are user-controlled and out of scope.
       <a href="https://zyxel-lyn.github.io">Website</a>
     </td>
     <td width="36%" valign="top">
-      <img src="assets/manga-quote-master.png" alt="Complete Arthur Boyle monochrome manga panel: Some people see flames. I see a light that keeps me moving forward." width="100%" />
+      <img src="assets/manga-footer-v2-final.png" alt="Complete Arthur Boyle monochrome manga panel: Some people see flames. I see a light that keeps me moving forward." width="100%" />
     </td>
   </tr>
 </table>

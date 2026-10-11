@@ -1,59 +1,49 @@
 # ZYXEL-LYN — Visual Canon V2 (Frozen)
 
-**Authoritative reference:** the user-approved Arthur Boyle Pixel / black-white manga GitHub mockup.
+Authoritative reference: the user-approved monochrome Arthur Boyle Pixel / manga GitHub layout.
 
-## Immutable visual identity
+## Immutable composition
+- One full-width ZYXEL-LYN hero, including sword, character, hair above border, typography and right-side manga panel.
+- Three Selected Work cards side-by-side, in this order: TA-Builder / DevNoteHub / web-personal.
+- One horizontal footer: ABOUT / GET IN TOUCH / manga quote.
+- Black, white and grayscale only. No gradients, neon, 3D, automated badges, or redesign of pixel details.
+- Keep the authored pixel-art exactly as generated: no enhancement, smoothing, sharpening, retouching or recoloring.
 
-- Arthur Boyle manga/pixel aesthetic, strictly monochrome black, white and grayscale.
-- Preserve the original blocky pixel details, halftone, typography, sword, expressions, scene, composition, and decorative framing.
-- Do not redraw, smooth, enhance, change contrast, recolor or reinterpret any artwork.
-- Hero: one complete, full-width standalone banner.
-- Selected Work: one row containing three equally sized cards in this order: TA-Builder, DevNoteHub, web-personal.
-- Footer: ABOUT / GET IN TOUCH / manga quote, side by side.
-- Do not replace this layout with stacked V3-style hero/cards, sliders, animations, trophies, colored badges or AI-style gradients.
+## Approved asset policy — 2026-10-11
+The final images originate from five **independent, full-frame generated PNGs** supplied by the user in
+`D:\Wildanun Mukhallid\Project\Github Theme\New folder`.
+They are not screenshot crops from the earlier GitHub UI mockup.
 
-## Production asset provenance
+The user explicitly approved removing excess space **outside each artwork frame** while preserving
+Arthur's hair above the hero frame. We cropped outer transparent margins with fixed integer rectangles.
+No image was rescaled. Every original visible pixel retained in the crop is identical in BGRA channels.
+Pixel-comparison QA also checked that discarded pixels have alpha no greater than 1.
 
-All five production images are independently generated, full-frame artwork.
-They are **not** crops extracted from a screenshot of the GitHub interface.
-The bytes uploaded into GitHub must match the standalone production PNGs and the
-original user-provided artwork. All pixel content must remain unchanged.
-
-| File in assets/ | Local master path under Github Theme/01_PRODUCTION/ | Source dimensions |
+| GitHub repository image | Final local image | Pixel size |
 |---|---|---|
-| hero-monochrome-v2-master.png | hero-monochrome-v2-master.png | 2172 x 724 |
-| project-ta-builder-master.png | project-ta-builder-master.png | 1983 x 793 |
-| project-devnotehub-master.png | project-devnotehub-master.png | 1983 x 793 |
-| project-web-personal-master.png | project-web-personal-master.png | 1983 x 793 |
-| manga-quote-master.png | manga-quote-master.png | 1983 x 793 |
+| `assets/hero-monochrome-v2-master.png` | `hero-monochrome-v2.png` | 2156 x 650 |
+| `assets/project-ta-builder-master.png` | `project-ta-builder.png` | 1911 x 565 |
+| `assets/project-devnotehub-master.png` | `project-devnotehub.png` | 1979 x 619 |
+| `assets/project-web-personal-master.png` | `project-web-personal.png` | 1967 x 575 |
+| `assets/manga-quote-master.png` | `manga-footer-v2.png` | 1945 x 502 |
 
-**Local master folder:** `D:\Wildanun Mukhallid\Project\Github Theme`
+Local source of truth: `D:\Wildanun Mukhallid\Project\Github Theme\FINAL_ASSETS`.
 
-**QA evidence:** `02_QA/ASSET_QA_REPORT.json` in the local master folder.
-Source-to-production equality was verified by full byte comparison,
-SHA-256 digest and PNG chunk CRC checks. Production art must not be cropped
-or resampled to fit GitHub: display full frames at width 100% instead.
+## Forbidden changes
+- Replacing the approved character with AI-generated reinterpretations or smoothing away pixel edges.
+- Cropping within borders, removing sword, hair, text, or illustration details.
+- Replacing horizontal cards with stacked V3 banners.
+- Editing the GitHub avatar. The account photo is maintained manually by the user.
 
-## Profile photo is out of scope
+## GitHub platform limitations
+README content may use HTML tables and relative PNG references. GitHub controls top navigation,
+sidebar, account avatar, pinned repositories, and contribution graph.
+Three columns may look very small on narrow/mobile screens; do not silently alter the approved
+composition to solve platform constraints.
 
-The user uploads/maintains the GitHub profile photo manually.
-Do not replace or edit the GitHub avatar and do not publish a new avatar.
-
-## Platform constraints
-
-The GitHub header, side navigation, account avatar, pinned repositories,
-contribution graph, and browser responsive behavior are GitHub-owned UI.
-README Markdown controls only the profile README content.
-
-Rendering can scale an entire image, which does not remove pixels but makes
-small typography less readable at narrow widths. Revisit card composition
-only after the user explicitly approves a different layout.
-
-## Acceptance gates
-
-1. Every master image is a complete, independently generated composition.
-2. All five GitHub image files are pixel/byte-identical to the validated masters.
-3. No clipped titles, borders or character elements are introduced by processing.
-4. All image paths in README exist and render in GitHub.
-5. Desktop/mobile screenshot QA performed before declaring the entire UI accepted.
-6. Do not edit the user-controlled avatar.
+## Acceptance and provenance
+1. Five final images are PNG with transparency outside the framed compositions.
+2. Crops are derived from originals without resampling or changing retained nontransparent pixels.
+3. SHA-256 checksums match the validated local final assets after GitHub upload.
+4. README image references resolve, rendering is visually checked, and characters/borders are intact.
+5. GitHub avatar remains unchanged.
