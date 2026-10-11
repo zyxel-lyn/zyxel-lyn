@@ -35,17 +35,17 @@ GitHub account avatar and native interface are user-controlled and out of scope.
 <table>
   <tr>
     <td width="40%" valign="top">
-      <strong>ABOUT</strong><br />
+      <strong>- About</strong><br />
       I'm <strong>Wildanun Mukhallid</strong> (<code>zyxel-lyn</code>), a developer who enjoys turning ideas into practical software.<br /><br />
       Always learning. Always building.
     </td>
     <td width="24%" valign="top">
-      <strong>GET IN TOUCH</strong><br /><br />
+      <strong>- Get In Touch</strong><br /><br />
       <a href="https://github.com/zyxel-lyn">GitHub</a><br />
       <a href="https://zyxel-lyn.github.io">Website</a>
     </td>
     <td width="36%" valign="top">
-      <strong>Arthur Boyle</strong><br />
+      <strong>- Arthur Boyle</strong><br />
       <img src="assets/manga-footer-v2-final.png" alt="Complete Arthur Boyle monochrome manga panel: Some people see flames. I see a light that keeps me moving forward." width="100%" />
     </td>
   </tr>
