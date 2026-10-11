@@ -1,61 +1,41 @@
 <!--
-ZYXEL-LYN / GitHub profile README
-Visual canon: V2 Monochrome — Arthur Boyle Pixel / manga panels.
-Static native GitHub README: no custom CSS, JS, simulated controls, or fictitious metrics.
+PROFILE / ZYXEL-LYN
+Visual canon: APPROVED V2 Arthur Boyle Pixel Monochrome, reflow V3.
+README is responsive and uses only GitHub-supported Markdown and images.
+No fictitious repository metrics, CSS styling, or UI elements.
 -->
 
 <div align="center">
-  <img src="assets/hero-monochrome-v2.png" alt="ZYXEL-LYN — Wildanun Mukhallid. Monochrome pixel-art banner inspired by Arthur Boyle, with manga-panel composition." width="100%" />
+  <img src="./assets/hero-monochrome-v3.png" alt="ZYXEL-LYN — Wildanun Mukhallid. Monochrome pixel-art Arthur Boyle in a manga-panel banner." width="100%">
 </div>
 
-<br />
+<p align="center"><strong>Building software with intention.</strong><br>
+Ideas → Tools → Real Workflows.</p>
+
+---
 
 ### `01 / SELECTED WORK`
 
-<table>
-  <tr>
-    <td width="33.33%" valign="top">
-      <a href="https://github.com/zyxel-lyn/TA-Builder">
-        <img src="assets/project-ta-builder.png" alt="TA-Builder — academic writing desktop workspace" width="100%" />
-      </a>
-      <p><strong><a href="https://github.com/zyxel-lyn/TA-Builder">TA-Builder</a></strong><br />
-      <sub>Windows desktop workspace for structured academic writing, from proposals to final reports.</sub></p>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://github.com/zyxel-lyn/devnotehub">
-        <img src="assets/project-devnotehub.png" alt="DevNoteHub — full-stack notes application" width="100%" />
-      </a>
-      <p><strong><a href="https://github.com/zyxel-lyn/devnotehub">DevNoteHub</a></strong><br />
-      <sub>Full-stack notes application with authentication, search, tags, and personal organization.</sub></p>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://github.com/zyxel-lyn/web-personal">
-        <img src="assets/project-web-personal.png" alt="web-personal — personal website project" width="100%" />
-      </a>
-      <p><strong><a href="https://github.com/zyxel-lyn/web-personal">web-personal</a></strong><br />
-      <sub>A personal website for selected work, background, and contact.</sub></p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/zyxel-lyn/TA-Builder"><img src="./assets/project-ta-builder-v3.png" alt="01 — TA-Builder, desktop document workspace" width="100%"></a>
 
-<table>
-  <tr>
-    <td width="46%" valign="top">
-      <strong><code>02 / ABOUT</code></strong>
-      <p>I'm <strong>Wildanun Mukhallid</strong> (<code>zyxel-lyn</code>), a developer from Indonesia.</p>
-      <p>I build practical software and structured tools. I care about purposeful interfaces, maintainable systems, and things that work outside a demo.</p>
-      <sub>IDEAS → TOOLS → REAL WORKFLOWS</sub>
-    </td>
-    <td width="24%" valign="top">
-      <strong><code>03 / CONTACT</code></strong>
-      <p><a href="https://github.com/zyxel-lyn">GitHub</a><br />
-      <a href="https://zyxel-lyn.github.io">Website</a></p>
-    </td>
-    <td width="30%" valign="top">
-      <img src="assets/manga-quote-panel.png" alt="Monochrome manga eye detail, from the approved Arthur Boyle pixel-art concept" width="100%" />
-      <p><sub>A SWORD<br />FOR A BRIGHTER<br />TOMORROW.</sub></p>
-    </td>
-  </tr>
-</table>
+A Windows desktop workspace for structured academic writing, from project proposals to final reports. [Explore the project →](https://github.com/zyxel-lyn/TA-Builder)
 
-<sub>Built with intention. Kept intentionally minimal.</sub>
+<a href="https://github.com/zyxel-lyn/devnotehub"><img src="./assets/project-devnotehub-v3.png" alt="02 — DevNoteHub, full-stack notes application" width="100%"></a>
+
+A full-stack notes application covering authentication, search, tags, and personal organization. [Explore the project →](https://github.com/zyxel-lyn/devnotehub)
+
+<a href="https://github.com/zyxel-lyn/web-personal"><img src="./assets/project-web-personal-v3.png" alt="03 — web-personal, personal website" width="100%"></a>
+
+A small personal web space and early web development project. [Explore the project →](https://github.com/zyxel-lyn/web-personal)
+
+---
+
+### `02 / ABOUT`
+
+I'm **Wildanun Mukhallid** (`zyxel-lyn`), a developer based in Indonesia. I build practical software and tools focused on useful workflows, clear interfaces, and maintainable implementation.
+
+### `03 / CONTACT`
+
+[GitHub](https://github.com/zyxel-lyn) · [Personal website](https://zyxel-lyn.github.io)
+
+<sub>LESS NOISE. MORE WORK. / © ZYXEL-LYN</sub>
