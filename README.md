@@ -45,6 +45,7 @@ GitHub account avatar and native interface are user-controlled and out of scope.
       <a href="https://zyxel-lyn.github.io">Website</a>
     </td>
     <td width="36%" valign="top">
+      <strong>Arthur Boyle</strong><br />
       <img src="assets/manga-footer-v2-final.png" alt="Complete Arthur Boyle monochrome manga panel: Some people see flames. I see a light that keeps me moving forward." width="100%" />
     </td>
   </tr>
