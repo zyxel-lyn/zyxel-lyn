@@ -15,22 +15,24 @@ GitHub account avatar and native interface are user-controlled and out of scope.
 <table>
   <tr>
     <td width="33.33%" valign="top">
-      <a href="https://github.com/zyxel-lyn/TA-Builder" title="TA-Builder — Windows desktop academic writing workspace">
-        <img src="assets/ta-builder-v2-final.png" alt="Complete monochrome TA-Builder project artwork. View TA-Builder repository." width="100%" />
+      <a href="https://github.com/zyxel-lyn/Xord" title="Xord — Windows desktop academic writing workspace">
+        <img src="assets/project-xord-v2-final.png" alt="Complete monochrome Xord project artwork. View Xord repository." width="100%" />
       </a>
     </td>
     <td width="33.33%" valign="top">
       <a href="https://github.com/zyxel-lyn/devnotehub" title="DevNoteHub — full-stack notes application">
-        <img src="assets/devnotehub-v2-final.png" alt="Complete monochrome DevNoteHub project artwork. View DevNoteHub repository." width="100%" />
+        <img src="assets/project-devnotehub-v2-final.png" alt="Complete monochrome DevNoteHub project artwork. View DevNoteHub repository." width="100%" />
       </a>
     </td>
     <td width="33.33%" valign="top">
-      <a href="https://github.com/zyxel-lyn/web-personal" title="web-personal — personal website">
-        <img src="assets/web-personal-v2-final.png" alt="Complete monochrome web-personal project artwork. View web-personal repository." width="100%" />
+      <a href="https://github.com/zyxel-lyn/Mixios" title="Mixios — private iOS console development">
+        <img src="assets/project-mixios-v2-final.png" alt="Complete monochrome Mixios project artwork. View Mixios repository." width="100%" />
       </a>
     </td>
   </tr>
 </table>
+
+<sub>Mixios is a private development repository; its source is available only to authorized collaborators.</sub>
 
 <table>
   <tr>
