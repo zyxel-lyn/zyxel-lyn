@@ -1,41 +1,39 @@
 <!--
-PROFILE / ZYXEL-LYN
-Visual canon: APPROVED V2 Arthur Boyle Pixel Monochrome, reflow V3.
-README is responsive and uses only GitHub-supported Markdown and images.
-No fictitious repository metrics, CSS styling, or UI elements.
+GitHub Profile / zyxel-lyn
+IMMUTABLE VISUAL CANON: Arthur Boyle Pixel, Black/White Manga, approved V2.
+This README preserves the hero, 3-up Selected Work, and 3-part footer.
+Only native GitHub Markdown/HTML markup; GitHub interface chrome is not customizable.
+No V3 stacked project art, gradients, animations, fake metrics, or custom CSS.
 -->
 
-<div align="center">
-  <img src="./assets/hero-monochrome-v3.png" alt="ZYXEL-LYN — Wildanun Mukhallid. Monochrome pixel-art Arthur Boyle in a manga-panel banner." width="100%">
-</div>
+<p align="center">
+  <img src="assets/hero-monochrome-v2.png" alt="ZYXEL-LYN — Wildanun Mukhallid. Black-and-white pixel-manga Arthur Boyle artwork with the original V2 typography." width="100%" />
+</p>
 
-<p align="center"><strong>Building software with intention.</strong><br>
-Ideas → Tools → Real Workflows.</p>
+### SELECTED WORK
 
----
+<table>
+  <tr>
+    <td width="33.33%" valign="top"><a href="https://github.com/zyxel-lyn/TA-Builder" title="TA-Builder — Windows academic document workspace"><img src="assets/project-ta-builder.png" alt="TA-Builder. Desktop document workspace. Open GitHub repository." width="100%" /></a></td>
+    <td width="33.33%" valign="top"><a href="https://github.com/zyxel-lyn/devnotehub" title="DevNoteHub — full-stack notes application"><img src="assets/project-devnotehub.png" alt="DevNoteHub. Full-stack notes application. Open GitHub repository." width="100%" /></a></td>
+    <td width="33.33%" valign="top"><a href="https://github.com/zyxel-lyn/web-personal" title="web-personal — personal website"><img src="assets/project-web-personal.png" alt="web-personal. Personal website. Open GitHub repository." width="100%" /></a></td>
+  </tr>
+</table>
 
-### `01 / SELECTED WORK`
-
-<a href="https://github.com/zyxel-lyn/TA-Builder"><img src="./assets/project-ta-builder-v3.png" alt="01 — TA-Builder, desktop document workspace" width="100%"></a>
-
-A Windows desktop workspace for structured academic writing, from project proposals to final reports. [Explore the project →](https://github.com/zyxel-lyn/TA-Builder)
-
-<a href="https://github.com/zyxel-lyn/devnotehub"><img src="./assets/project-devnotehub-v3.png" alt="02 — DevNoteHub, full-stack notes application" width="100%"></a>
-
-A full-stack notes application covering authentication, search, tags, and personal organization. [Explore the project →](https://github.com/zyxel-lyn/devnotehub)
-
-<a href="https://github.com/zyxel-lyn/web-personal"><img src="./assets/project-web-personal-v3.png" alt="03 — web-personal, personal website" width="100%"></a>
-
-A small personal web space and early web development project. [Explore the project →](https://github.com/zyxel-lyn/web-personal)
-
----
-
-### `02 / ABOUT`
-
-I'm **Wildanun Mukhallid** (`zyxel-lyn`), a developer based in Indonesia. I build practical software and tools focused on useful workflows, clear interfaces, and maintainable implementation.
-
-### `03 / CONTACT`
-
-[GitHub](https://github.com/zyxel-lyn) · [Personal website](https://zyxel-lyn.github.io)
-
-<sub>LESS NOISE. MORE WORK. / © ZYXEL-LYN</sub>
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <strong><sub>ABOUT</sub></strong><br />
+      <sub>I'm <strong>Wildanun Mukhallid</strong> (<code>zyxel-lyn</code>), a developer building practical software and useful tools.</sub><br /><br />
+      <sub>Always learning. Always building.</sub>
+    </td>
+    <td width="24%" valign="top">
+      <strong><sub>GET IN TOUCH</sub></strong><br /><br />
+      <sub><a href="https://github.com/zyxel-lyn">GitHub</a><br />
+      <a href="https://zyxel-lyn.github.io">Website</a></sub>
+    </td>
+    <td width="36%" valign="top">
+      <img src="assets/manga-footer-v2.png" alt="Original V2 manga eye panel and monochrome quote artwork." width="100%" />
+    </td>
+  </tr>
+</table>
