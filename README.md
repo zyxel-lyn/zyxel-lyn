@@ -37,9 +37,7 @@ GitHub account avatar and native interface are user-controlled and out of scope.
     <td width="40%" valign="top">
       <strong>ABOUT</strong><br />
       I'm <strong>Wildanun Mukhallid</strong> (<code>zyxel-lyn</code>), a developer who enjoys turning ideas into practical software.<br /><br />
-      I focus on building tools that are useful, efficient, and make real workflows easier.<br /><br />
-      Always learning.
-      Always building.
+      Always learning. Always building.
     </td>
     <td width="24%" valign="top">
       <strong>GET IN TOUCH</strong><br /><br />
